@@ -1,81 +1,81 @@
-📊 Blinkit Sales Dashboard — Excel Data Analytics Project
+# 📊 Blinkit Sales Dashboard — Excel Data Analytics Project
 
-This project is an interactive Sales Analytics Dashboard built in Microsoft Excel using real-world style retail data from Blinkit. The goal of the project was to transform raw transactional data into meaningful business insights through data cleaning, visualization, KPI tracking, and dashboard design.
+This project is an **interactive Sales Analytics Dashboard built in Microsoft Excel** using real-world style retail data from Blinkit. The goal of the project was to **transform raw transactional data into meaningful business insights** through data cleaning, visualization, KPI tracking, and dashboard design.
 
-The dashboard allows users to dynamically explore sales performance, outlet behavior, and product trends using Pivot Tables, Pivot Charts, and Slicers.
+The dashboard allows users to dynamically explore **sales performance, outlet behavior, and product trends** using Pivot Tables, Pivot Charts, and Slicers.
 
-🚀 Key Features
-🟢 KPI Summary
+---
 
-💰 Total Sales
+## 🚀 Key Features
 
-📦 Number of Items
+### 🟢 KPI Summary
 
-📊 Average Sales per Item
+* 💰 **Total Sales**
+* 📦 **Number of Items**
+* 📊 **Average Sales per Item**
+* ⭐ **Average Customer Rating**
 
-⭐ Average Customer Rating
+### 🏬 Outlet-Level Analysis
 
-🏬 Outlet-Level Analysis
+* Sales by **Outlet Size** (Small / Medium / High)
+* Sales by **Outlet Location** (Tier 1 / Tier 2 / Tier 3)
+* Sales by **Outlet Type** (Supermarket & Grocery Store)
 
-Sales by Outlet Size (Small / Medium / High)
+### 🥗 Product Analytics
 
-Sales by Outlet Location (Tier 1 / Tier 2 / Tier 3)
+* **Item-wise Sales Contribution**
+* **Fat Content Comparison — Low Fat vs Regular**
 
-Sales by Outlet Type (Supermarket & Grocery Store)
+### 📅 Trend Insights
 
-🥗 Product Analytics
+* **Sales by Outlet Establishment Year**
 
-Item-wise Sales Contribution
+### 🎛️ Interactivity
 
-Fat Content Comparison — Low Fat vs Regular
+* Slicers for multi-level filtering
+* Dynamic KPIs
+* Pivot-driven charts & visuals
 
-📅 Trend Insights
+---
 
-Sales by Outlet Establishment Year
+## 🛠 Tools & Techniques Used
 
-🎛️ Interactivity
+* **Microsoft Excel**
+* Pivot Tables & Pivot Charts
+* Data Cleaning & Structuring
+* Interactive Slicers
+* Dashboard Layout & Visualization
+* Business Insight Generation
 
-Slicers for multi-level filtering
+---
 
-Dynamic KPIs
-
-Pivot-driven charts & visuals
-
-🛠 Tools & Techniques Used
-
-Microsoft Excel
-
-Pivot Tables & Pivot Charts
-
-Data Cleaning & Structuring
-
-Interactive Slicers
-
-Dashboard Layout & Visualization
-
-Business Insight Generation
-
-📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 ✔ Converting raw data into decision-ready dashboards
 ✔ Identifying & designing meaningful KPIs
 ✔ Visual storytelling through dashboard design
 ✔ Applying analytics concepts to retail datasets
 
-📌 Project Screenshots/Video
+---
 
+## 📌 Project Screenshots
 
+*(Add your dashboard screenshots here)*
 
-🔮 Future Improvements
+---
 
-Automate data refresh
+## 🔮 Future Improvements
 
-Add drill-down analytics
+* Automate data refresh
+* Add drill-down analytics
+* Create Power BI / Tableau version
 
-Create Power BI / Tableau version
+---
 
-🙌 About This Project
+## 🙌 About This Project
 
-This dashboard is part of my Data Science & Analytics learning journey, where I focus on building real-world analytics projects to strengthen my practical skills.
+This dashboard is part of my **Data Science & Analytics learning journey**, where I focus on building real-world analytics projects to strengthen my practical skills.
 
 Feedback, suggestions, and collaborations are always welcome! 😊
+
+
