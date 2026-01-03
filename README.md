@@ -58,7 +58,7 @@ The dashboard allows users to dynamically explore **sales performance, outlet be
 
 ---
 
-## 📌 Project Screenshots
+## 📌 Project Screenshots/Video
 **https://www.linkedin.com/posts/krish-makwana-58ab64374_datascience-dataanalytics-exceldashboard-activity-7411037347561009152-BKGc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFy4SDoB5RKus0IjrjxH2XoHrWA_8rtyLCY**
 
 ---
